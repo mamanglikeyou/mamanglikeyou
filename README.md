@@ -66,6 +66,7 @@ With a strong interest in both **Web Development** and **Data Science**, I love 
 
 ---
 ⭐ *"Busy Enjoying Life or Busy Suffering."*  
+<br>
 Thanks for visiting my GitHub profile! 😄<br>
 Let's build amazing digital experiences together! 🚀
 
