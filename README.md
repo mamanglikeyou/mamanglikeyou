@@ -60,9 +60,12 @@ With a strong interest in both **Web Development** and **Data Science**, I love 
 </p> 
 
 ---
-### ✍️ Random Dev Quote
+### 🚀 Eat. Sleep. Code. Repeat.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-⭐ *"Code, Learn, and Share — that’s how innovation grows."*  
+⭐ *"Busy Enjoying Life or Busy Suffering."*  
 Thanks for visiting my GitHub profile! 😄
+Let's build amazing digital experiences together! 🚀
+
+
