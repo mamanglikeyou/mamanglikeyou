@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dani Ramdani 👋</h1>
-<h3 align="center">Fresh Graduate | Data Science & AI Enthusiast | NLP & Web Developer</h3>
+<h3 align="center"> Web Developer & Data Science</h3>
 
 ---
 
