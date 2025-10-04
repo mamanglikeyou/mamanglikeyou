@@ -54,9 +54,9 @@ With a strong interest in both **Web Development** and **Data Science**, I love 
 ### 📊 GitHub Stats  
 <p align="Center">
 <a href="https://github.com/mamanglikeyou">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mamanglikeyou&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://streak-stats.demolab.com?user=mamanglikeyou&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mamanglikeyou&layout=compact&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mamanglikeyou&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img src="https://streak-stats.demolab.com?user=mamanglikeyou&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="160" alt="streak graph"  />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mamanglikeyou&layout=compact&theme=algolia"/>
 </a>
 </p> 
 
