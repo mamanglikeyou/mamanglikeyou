@@ -41,42 +41,28 @@ With a strong interest in both **Web Development** and **Data Science**, I love 
 
 ---
 
-### 📂 Featured Projects  
-🚀 **SIM-TLA: Web-Based Audit Monitoring System**  
-A web application that monitors internal audit follow-up actions using structured SDLC methodology.  
-
-🧠 **Sentiment Analysis on Social Issues (X/Twitter)**  
-Analyzing public opinion using deep learning models such as **IndoBERT** and **NusaBERT**.  
-
-🗣️ **Paraphrasing Tool (Bahasa Indonesia)**  
-NLP-based system that automatically rephrases sentences in Indonesian language.  
-
-💬 **Fake News Detection**  
-AI-powered system to identify and classify misinformation from online articles.  
-
----
 
 ### 🌐 Connect with Me  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/dani-ramdani21/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dani@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/dani-ramdani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dani-ramdani&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani-ramdani&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<p align="left">
+<a href="https://github.com/mamanglikeyou">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mamanglikeyou&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mamanglikeyou&layout=compact&theme=algolia"/>
+</a>
+</p> 
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-⭐ *“Building smart, scalable, and meaningful applications — one line of code at a time.”*
+---
+⭐ *"Code, Learn, and Share — that’s how innovation grows."*  
+Thanks for visiting my GitHub profile! 😄
